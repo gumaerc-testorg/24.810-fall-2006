@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 58557806-9a32-28ee-92b3-244b6ce800d5
 resourcetype: Document
 title: Rationally choosing to follow norms
 uid: 3946848d-67e0-1e2e-0817-2a4347835efc

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 678f1d45-3355-5ff8-2d19-e76a3cec670f
 resourcetype: Document
 title: The Social
 uid: feb202f8-abce-fa7a-30c8-0e3b45eba232

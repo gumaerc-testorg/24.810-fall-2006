@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a list of possible case study topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

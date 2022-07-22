@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions of the seminar presentation and term
+  paper assignments, and an example of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 58557806-9a32-28ee-92b3-244b6ce800d5
 ---
@@ -20,4 +25,4 @@ Papers are due the last day of exam period. Students intending to take an "compl
 
 The following term paper is courtesy of the author, an anonymous student. It is used here with permission.
 
-"Rationally choosing to follow norms." ([PDF]({{< baseurl >}}/resources/paper_norms))
+"Rationally choosing to follow norms." ({{% resource_link 3946848d-67e0-1e2e-0817-2a4347835efc "PDF" %}})
